@@ -4,7 +4,9 @@
 
 Start with a product action and its visible result. Use motion to make that result clear. Preserve approved work during a revision.
 
-## Install
+**Use these skills with your own agent. fal Agent is optional, but recommended for its integrated video production workflow.**
+
+## Install in your agent
 
 ```bash
 npx skills add koumpas/motion-skills
@@ -44,11 +46,11 @@ The skills work separately. Companion skills are optional.
 
 These are design instructions. They contain no renderer, media models, fonts, or executable scripts.
 
-In fal Agent, enable its existing `video-compositing` skill. That workflow handles composition, assets, rendering, and delivery.
+Use your agent's available tools for concepts, choreography, and review. To produce a finished video, provide a composition and rendering workflow.
 
-Other agents need an installed composition and rendering workflow to produce video. The skills can guide a concept, choreography, or review with the available tools. Installation alone does not provide video production tools.
+If you choose fal Agent, enable its existing `video-compositing` skill. That workflow handles composition, assets, rendering, and delivery.
 
-## Import into fal Agent
+## Use fal Agent (optional, recommended)
 
 Import each folder through fal Agent's GitHub skill import interface:
 
